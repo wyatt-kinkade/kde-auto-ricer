@@ -120,7 +120,7 @@ Name=pywal-kde
 XftAntialias=true
 XftHintStyle=
 XftSubPixel=none
-dbfile=/home/xifgay/.mozilla/firefox/rt71y1ib.default/places.sqlite
+dbfile=~/.mozilla/firefox/rt71y1ib.default/places.sqlite
 shadeSortColumn=true
 widgetStyle=Ant-Dark
 

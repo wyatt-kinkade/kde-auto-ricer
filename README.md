@@ -6,7 +6,7 @@ KDE Ricing Script, this realistically exists far more for my personal use than t
 [pywal-kde](https://github.com/the404devs/pywal-kde) Needed to get pywal to work nicely with KDE (barring if these changes have been merged into main pywal)
 [plasma-theme-switcher](https://github.com/maldoinc/plasma-theme-switcher/releases/download/v0.1/plasma-theme) Needed for Changing Color Schemes
 (Optional)
-[]()
+[g810-led](https://github.com/MatMoul/g810-led)Needed for Keyboard scripts
 
 ## Installation/Configuration
 
@@ -19,7 +19,7 @@ cd pywal-kde
 pip3 install .
 cd ../
 rm -rf pywal-kde
-#Install needed additional packages for pywal as desired, see pywal documentation
+#Install needed additional packages for pywal as desired, see [pywal documentation](https://github.com/dylanaraps/pywal/wiki/Installation#backends)
 
 wget https://github.com/maldoinc/plasma-theme-switcher/releases/download/v0.1/plasma-theme
 #Your choice on where you want this executable to go and who you want to access it, I'm just putting this where I put it
