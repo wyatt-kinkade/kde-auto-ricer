@@ -16,6 +16,8 @@ read backend
 
 wal -i $wallpaperfile --backend $backend
 
+color-keys.sh
+
 plasma-theme -c ~/.local/share/color-schemes/pywal-kde.colors
 
 echo "Please Restart Konsole to see changes apply there and change file manager icons accordingly"
