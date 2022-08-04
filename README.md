@@ -35,7 +35,7 @@ wget https://github.com/maldoinc/plasma-theme-switcher/releases/download/v0.1/pl
 git clone https://github.com/wyatt-kinkade/kde-auto-ricer.git
 cd kde-auto-ricer
 #copy templates to the pywal template directory
-cp templates/* .config/wal/templates/
+cp templates/* ~/.config/wal/templates/
 #Copy either the full or partial script for this
 cp ./wal-kde-colors.sh ~/bin/
 #cp ./wal-kde-colors-lite.sh ~/bin/
