@@ -25,7 +25,7 @@ wget https://github.com/maldoinc/plasma-theme-switcher/releases/download/v0.1/pl
 #Your choice on where you want this executable to go and who you want to access it, I'm just putting this where I put it
 #sudo mv plasma-theme /bin/
 #sudo chown root:root /bin/plasma-theme
-#such chmod +x /bin/plasma-theme
+#sudo chmod +x /bin/plasma-theme
 
 #If Keyboard stuff is something you're interested in and you're using Debian/Ubuntu
 #apt install g810-led
