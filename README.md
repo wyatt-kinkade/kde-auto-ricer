@@ -1,3 +1,5 @@
+# OUT OF DATE, currently replaced in usage by a script leveraging https://github.com/luisbocanegra/kde-material-you-colors
+
 # kde-auto-ricer
 KDE Ricing Script, this realistically exists far more for my personal use than to show off, this isn't really much of a nice/fancy script. I've two copies, one adds g810-led support given I like my keyboard to change to match my ricing.
 
